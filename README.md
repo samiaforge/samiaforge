@@ -1,5 +1,8 @@
+<img src="./banner.png" alt="Samia GitHub Banner" width="100%">
+
+<br>
 <h1 align="center">Hi 👋, I'm Meheli Akther Samia</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **full stack web development**
 
